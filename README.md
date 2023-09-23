@@ -4,7 +4,7 @@
 
 This is a Song Listing Application that uses the LangChain OpenAI API and Streamlit to curate a list of songs based on user-specified emotions. It provides an easy way to discover and listen to songs that match different emotional states.
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Screenshot.png)
 
 ## Prerequisites
 
