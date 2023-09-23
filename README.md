@@ -68,7 +68,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or need further assistance, feel free to contact the project maintainer:
 
-- Your Name
+- Pawan Perera
 - Email: 1pawanpinsara@gmail.com
 ## Acknowledgments
 
