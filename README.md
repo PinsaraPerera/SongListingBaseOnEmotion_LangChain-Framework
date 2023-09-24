@@ -19,7 +19,7 @@ Before you can run this application, make sure you have the following prerequisi
 1. Clone the GitHub repository:
 
    ```bash
-   git clone https://github.com/your-username/song-listing-emotion.git
+   git clone https://github.com/PinsaraPerera/SongListingBaseOnEmotion_LangChain-Framework.git
    cd song-listing-emotion
    ```
 
