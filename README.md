@@ -20,7 +20,6 @@ Before you can run this application, make sure you have the following prerequisi
 
    ```bash
    git clone https://github.com/PinsaraPerera/SongListingBaseOnEmotion_LangChain-Framework.git
-   cd song-listing-emotion
    ```
 
 2. Install the required Python packages using pip:
